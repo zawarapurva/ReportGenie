@@ -101,4 +101,3 @@ The OpenAI project empowers users with intelligent recommendations and responses
 This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution.
 
 For any further questions or inquiries, please refer to the project maintainers.
-
